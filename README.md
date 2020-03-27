@@ -78,3 +78,7 @@ a) Use of Git Hub and Repository Screenshots
  d) Web page speed optimisation screen shot
  
  <center><img src ="pictures/websitespeed.PNG" width=800></center>
+ 
+The primary ways I have attempted to improve the loading times of my web pages is through proper formatting and the optimisation of graphic images. All images have been compressed using Tiny PNG. I’ve tried to avoid the insertion of inline JS and CSS code into the pages of my site and I have tried to create a simple functional CSS page. The use a CDN for delivering static assets can also improve loading times for a website. I have tried to get all pages to load at an ideal 2 seconds and no longer than 3 seconds given the tendency of user interests in a site to increasingly fall with poor performing and slow to upload websites. 
+speeds. 
+

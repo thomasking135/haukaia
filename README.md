@@ -15,7 +15,7 @@ Tables used for tabular data, not for layout
 Content can be accessed with the keyboard alone in a logical way  
 ARIA roles and landmarks used to identify navigation menu, header and main content  
 
-d) <center><img src ="pictures/privacystatement.jpg" width=300></center>
+d) <center><img src ="pictures/privacystatement.jpg" width=800></center>
 
 
 e) Identify and discuss: 

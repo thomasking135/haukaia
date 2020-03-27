@@ -15,7 +15,7 @@ Tables used for tabular data, not for layout
 Content can be accessed with the keyboard alone in a logical way  
 ARIA roles and landmarks used to identify navigation menu, header and main content  
 
-d) <img src ="pictures/privacystatement" wisth= 100>
+d) <img src ="pictures/privacystatement" width= 100>
 
 e) Identify and discuss: 
 •	The types of security issues that website designers should consider. Include this discussion in your README file.  

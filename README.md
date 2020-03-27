@@ -1,3 +1,3 @@
-# http://thomasking135.github.io
+My Haukai Website Project
 
 My assignment

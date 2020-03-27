@@ -15,8 +15,7 @@ Tables used for tabular data, not for layout
 Content can be accessed with the keyboard alone in a logical way  
 ARIA roles and landmarks used to identify navigation menu, header and main content  
 
-d) <img src ="pictures/privacystatement" width= 100>
-
+d) <img src ="pictures/privacystatement.jpg" width=100>
 e) Identify and discuss: 
 •	The types of security issues that website designers should consider. Include this discussion in your README file.  
 Some of issues worth considering are cross-site request forgery, security misconfiguration, insecure direct references and broken authentication and session management. 

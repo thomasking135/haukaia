@@ -62,19 +62,19 @@ Part B
 
 a) Use of Git Hub and Repository Screenshots
 
-<center><img src ="pictures/profilegithub.jpg" width=800></center>
+<center><img src ="pictures/profilegithub.png" width=800></center>
 <br>
 
-<center><img src ="pictures/repositorygithub.jpg" width=800></center>
+<center><img src ="pictures/repositorygithub.png" width=800></center>
  <br>
- <center><img src ="pictures/repositoryshot.jpg" width=800></center>
+ <center><img src ="pictures/repositoryshot.png" width=800></center>
  <br>
  
  c) Trailing Spaces shots
  
- <center><img src ="pictures/trailingspaces.jpg" width=800></center>
+ <center><img src ="pictures/trailingspaces.png" width=800></center>
  <br>
  
  d) Web page speed optimisation screen shot
  
- <center><img src ="pictures/websitespeed.jpg" width=800></center>
+ <center><img src ="pictures/websitespeed.png" width=800></center>

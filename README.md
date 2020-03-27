@@ -87,7 +87,18 @@ a) Use of Git Hub and Repository Screenshots
  <center><img src ="pictures/repositoryshot.PNG" width=800></center>
  <br>
  
- b)
+ b) Mobile Responsive Design Principles
+ 
+ Steps which I have taken to make my application mobile friendly were vast. I attempted to compress images along with the CSS to ensure that loading speeds were swift for mobile users. I attempted to create a visually driven site which was dominated by more images and minimal but critical supporting textual information for users. The images were set to adjust to the size of the device and given the diversity of devices this was an important step taken. This ensured that users would not have to pinch the screen to zoom in and out of the site. The setting of images with percentages could also help to ensure a clear visual presentation on a variety of horizontal and vertical mobile devices. 
+
+Key information was selected, and text was kept simple using largely standard fonts. Larger fonts were selected, and colours were tactfully selected to ensure legibility and accessibly to users whom may have selective disabilities or impairments. Alt text and descriptions were provided with links the sites were tested on several browsers and devices to see how they looked and performed. They generally performed sufficiently on most of the major browsers and appeared pleasing on most of the mobile devices I tested them on (my phablet, Smart Phone, tablet and laptop). The use of meta configuration would have been a safe and easy way to ensure the soundness of the viewpoint across multiple devices. The other option would have been to have built an application specifically for mobile use only (or a link to a mobile created site from a desktop created site).
+
+Ease of clicking texts were conducted across my devices and efforts were taken to make clickable links large and easy to click on. At the same time, I tried to reduce the integration of plugins such as Flash to ensure that performance was upheld on all devices, especially mobiles. The site briefly took into consideration landscape and portrait viewing modes and I personally felt that while these could have been improved (perhaps with Media queries), I was largely pleased with how they appeared overall on many of the mobile devices and browsers they were trialled on. Greater testing on mobile screen resolution could greatly have been integrated into my project.
+
+The layout of the site was kept simple to deal with the mobile user in mind and their desire to find what they want quickly. Access to the menu and to all pages can be clearly found in the navigation bar and users can quickly navigate back to the home page or other pages as they wish. Appropriate headings have been used to compartmentalise information accordingly further assisting users to find what they are looking for quickly and efficiently.
+
+The SEO is something that could have been improved. 
+
  
  c) Trailing Spaces shots
  

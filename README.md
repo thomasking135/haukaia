@@ -3,6 +3,7 @@ My Haukai Website Project
 Here's the link: https://thomasking135.github.io/thomasking135-github.io/ 
 
 My assignment
+
 Part A
 
 c. Follows accessibility guidelines where appropriate.  
@@ -13,6 +14,8 @@ Form is designed for accessibility (labels, tabbing, grouping)
 Tables used for tabular data, not for layout  
 Content can be accessed with the keyboard alone in a logical way  
 ARIA roles and landmarks used to identify navigation menu, header and main content  
+
+d) <img src ="pictures/privacystatement" wisth= 100>
 
 e) Identify and discuss: 
 •	The types of security issues that website designers should consider. Include this discussion in your README file.  
